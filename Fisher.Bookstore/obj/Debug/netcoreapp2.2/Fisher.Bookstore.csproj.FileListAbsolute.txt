@@ -1,0 +1,14 @@
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\bin\Debug\netcoreapp2.2\Fisher.Bookstore.deps.json
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\bin\Debug\netcoreapp2.2\Fisher.Bookstore.runtimeconfig.json
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\bin\Debug\netcoreapp2.2\Fisher.Bookstore.runtimeconfig.dev.json
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\bin\Debug\netcoreapp2.2\Fisher.Bookstore.dll
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\bin\Debug\netcoreapp2.2\Fisher.Bookstore.pdb
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.csprojAssemblyReference.cache
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.csproj.CoreCompileInputs.cache
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.RazorAssemblyInfo.cache
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.RazorAssemblyInfo.cs
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.AssemblyInfoInputs.cache
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.AssemblyInfo.cs
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.RazorTargetAssemblyInfo.cache
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.dll
+F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.pdb
