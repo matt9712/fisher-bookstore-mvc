@@ -11,11 +11,11 @@ namespace Fisher.Bookstore.Controllers
         }
         public IActionResult History()
         {
-            return Content("This is the about controller’s history action.");
+            return View();
         }
         public IActionResult Location()
         {
-            return Content("This is the about controller’s location action.");
+            return View();
         }
     }
 }

@@ -21,3 +21,6 @@ f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp
 f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.RazorTargetAssemblyInfo.cs
 f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.Views.pdb
 f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.csproj.CopyComplete
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Razor\Views\About\History.g.cshtml.cs
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Razor\Views\About\Index.g.cshtml.cs
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Razor\Views\About\Location.g.cshtml.cs
