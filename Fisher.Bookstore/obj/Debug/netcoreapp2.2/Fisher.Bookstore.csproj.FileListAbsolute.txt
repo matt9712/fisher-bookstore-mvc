@@ -12,3 +12,12 @@ F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp
 F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.RazorTargetAssemblyInfo.cache
 F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.dll
 F:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.pdb
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\bin\Debug\netcoreapp2.2\Fisher.Bookstore.Views.dll
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\bin\Debug\netcoreapp2.2\Fisher.Bookstore.Views.pdb
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.TagHelpers.input.cache
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.TagHelpers.output.cache
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.RazorCoreGenerate.cache
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.RazorTargetAssemblyInfo.cs
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.Views.pdb
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Fisher.Bookstore.csproj.CopyComplete
