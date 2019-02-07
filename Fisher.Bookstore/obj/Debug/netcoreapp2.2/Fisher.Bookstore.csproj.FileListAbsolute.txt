@@ -24,3 +24,8 @@ f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp
 f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Razor\Views\About\History.g.cshtml.cs
 f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Razor\Views\About\Index.g.cshtml.cs
 f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Razor\Views\About\Location.g.cshtml.cs
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Razor\Views\Authors\Featured.g.cshtml.cs
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Razor\Views\Authors\Index.g.cshtml.cs
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Razor\Views\Books\Best.g.cshtml.cs
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Razor\Views\Books\Index.g.cshtml.cs
+f:\Documents\AMIS3610\fisher-bookstore-mvc\Fisher.Bookstore\obj\Debug\netcoreapp2.2\Razor\Views\Books\New.g.cshtml.cs
