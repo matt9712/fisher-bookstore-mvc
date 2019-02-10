@@ -7,8 +7,6 @@ namespace Fisher.Bookstore.Models
         public int AuthorId { get; set; }
 
         public string Name { get; set; }
-
-        @model Fisher.Bookstore.Models.Author
-
+        
     }
 }

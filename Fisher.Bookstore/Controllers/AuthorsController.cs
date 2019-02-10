@@ -11,10 +11,10 @@ namespace Fisher.Bookstore.Controllers
         }
         public IActionResult Featured()
         {
-            var featuredAuthor = new Author()
+            var featuredAuthor = new Models.Author()
             {
                 AuthorId = 1,
-                Name = "J.K. Rowling" //or pick your favorite
+                Name = "J.K. Rowling"
             };
             return View(featuredAuthor);
         }
